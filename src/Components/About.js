@@ -61,7 +61,7 @@ const About = () => {
         <span className="month">DEC</span>
         <span className="year">2019</span>
       </span>
-                    <h2>GOT SELECTED AS A SOFTWARE INTERN AT VIASAT TELECOMMUNICATION</h2>
+                    <h2>GOT SELECTED AS A SOFTWARE INTERN AT VIASAT TELECOMM.</h2>
                     <p>A total of 106 students sat for the internship round out of which only 4 got selected.
                     The internship has been postponed from May to January because of the pandemic</p>
                 </div>
