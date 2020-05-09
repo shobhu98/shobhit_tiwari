@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/shobhit_tiwari/static/css/main.7ba38caf.chunk.css",
+    "main.js": "/shobhit_tiwari/static/js/main.8e30f3c0.chunk.js",
+    "main.js.map": "/shobhit_tiwari/static/js/main.8e30f3c0.chunk.js.map",
+    "runtime-main.js": "/shobhit_tiwari/static/js/runtime-main.459461c6.js",
+    "runtime-main.js.map": "/shobhit_tiwari/static/js/runtime-main.459461c6.js.map",
+    "static/js/2.bac7a57d.chunk.js": "/shobhit_tiwari/static/js/2.bac7a57d.chunk.js",
+    "static/js/2.bac7a57d.chunk.js.map": "/shobhit_tiwari/static/js/2.bac7a57d.chunk.js.map",
+    "index.html": "/shobhit_tiwari/index.html",
+    "precache-manifest.8634e4572b05e5cf17f4bd33b3c05bd9.js": "/shobhit_tiwari/precache-manifest.8634e4572b05e5cf17f4bd33b3c05bd9.js",
+    "service-worker.js": "/shobhit_tiwari/service-worker.js",
+    "static/css/main.7ba38caf.chunk.css.map": "/shobhit_tiwari/static/css/main.7ba38caf.chunk.css.map",
+    "static/js/2.bac7a57d.chunk.js.LICENSE.txt": "/shobhit_tiwari/static/js/2.bac7a57d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.459461c6.js",
+    "static/js/2.bac7a57d.chunk.js",
+    "static/css/main.7ba38caf.chunk.css",
+    "static/js/main.8e30f3c0.chunk.js"
+  ]
+}
