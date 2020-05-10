@@ -62,15 +62,10 @@ border: .1rem solid #fff;
   text-decoration: none;
 }
 .container{
-  margin: 23vh  auto;
+  margin: 16vh  auto;
   width: 600px;
   max-width: 100%;
-  flex-direction: row;
-flex-wrap: wrap;
-  justify-content: center;
-  align-items: flex-start;
-  flex-basis: 0;
-  height: fit-content;
+
 
 }
 .cont{
