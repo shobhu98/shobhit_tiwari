@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/shobhit_tiwari/static/css/main.29f2e233.chunk.css",
-    "main.js": "/shobhit_tiwari/static/js/main.41b0e5da.chunk.js",
-    "main.js.map": "/shobhit_tiwari/static/js/main.41b0e5da.chunk.js.map",
+    "main.css": "/shobhit_tiwari/static/css/main.6fa7de75.chunk.css",
+    "main.js": "/shobhit_tiwari/static/js/main.e088e4ff.chunk.js",
+    "main.js.map": "/shobhit_tiwari/static/js/main.e088e4ff.chunk.js.map",
     "runtime-main.js": "/shobhit_tiwari/static/js/runtime-main.459461c6.js",
     "runtime-main.js.map": "/shobhit_tiwari/static/js/runtime-main.459461c6.js.map",
     "static/js/2.bac7a57d.chunk.js": "/shobhit_tiwari/static/js/2.bac7a57d.chunk.js",
     "static/js/2.bac7a57d.chunk.js.map": "/shobhit_tiwari/static/js/2.bac7a57d.chunk.js.map",
     "index.html": "/shobhit_tiwari/index.html",
-    "precache-manifest.1fd29b846ae1fe719140b348e439370f.js": "/shobhit_tiwari/precache-manifest.1fd29b846ae1fe719140b348e439370f.js",
+    "precache-manifest.190459d6480bb9d57fd9560602b46350.js": "/shobhit_tiwari/precache-manifest.190459d6480bb9d57fd9560602b46350.js",
     "service-worker.js": "/shobhit_tiwari/service-worker.js",
-    "static/css/main.29f2e233.chunk.css.map": "/shobhit_tiwari/static/css/main.29f2e233.chunk.css.map",
+    "static/css/main.6fa7de75.chunk.css.map": "/shobhit_tiwari/static/css/main.6fa7de75.chunk.css.map",
     "static/js/2.bac7a57d.chunk.js.LICENSE.txt": "/shobhit_tiwari/static/js/2.bac7a57d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.459461c6.js",
     "static/js/2.bac7a57d.chunk.js",
-    "static/css/main.29f2e233.chunk.css",
-    "static/js/main.41b0e5da.chunk.js"
+    "static/css/main.6fa7de75.chunk.css",
+    "static/js/main.e088e4ff.chunk.js"
   ]
 }
