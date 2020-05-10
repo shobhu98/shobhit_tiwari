@@ -5,15 +5,16 @@ const About = () => {
     return (
 
     <Fragment>
+        <a href={"/shobhit_tiwari"}><button className='gitbutton'>GoBack</button></a>
 
 
-        <section id="timeline">
+        <section id="timeline" className={"cont"}>
             <article>
                 <div className="inner">
       <span className="date">
         <span className="day">7<sup>th</sup></span>
         <span className="month">May</span>
-        <span className="year">2019</span>
+        <span className="year">2020</span>
       </span>
                     <h2>OPEN SOURCE CONTRIBUTION</h2>
                     <p>Started Contributing in open source projects.Made by first contribution in Microsoft Azure.Also
@@ -24,7 +25,7 @@ const About = () => {
                 <div className="inner">
       <span className="date">
         <span className="day">20<sup>th</sup></span>
-        <span className="month">March</span>
+        <span className="month">Mar</span>
         <span className="year">2020</span>
       </span>
                     <h2>DEVELOPERS CONNECTING</h2>
@@ -35,7 +36,7 @@ const About = () => {
                 <div className="inner">
       <span className="date">
         <span className="day">3<sup>rd</sup></span>
-        <span className="month">March</span>
+        <span className="month">Mar</span>
         <span className="year">2020</span>
       </span>
                     <h2>SIH FINALIST</h2>
