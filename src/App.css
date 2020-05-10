@@ -65,11 +65,20 @@ border: .1rem solid #fff;
   margin: 23vh  auto;
   width: 600px;
   max-width: 100%;
+  flex-direction: row;
+flex-wrap: wrap;
+  justify-content: center;
+  align-items: flex-start;
+  flex-basis: 0;
+  height: fit-content;
 
 }
 .cont{
-  width: 800px;
-  max-width: 100%;
+  width: 1000px;
+  max-width: 120%;
+
+  max-height: 200%;
+
 }
 
 
@@ -92,10 +101,11 @@ html,body{
   background-color:rgb(40, 44, 52) ;
   color: #fff;
   height: 100%;
-
-
-
+  display: block;
+  margin: 0;
 }
+
+
 
 
 
@@ -245,3 +255,13 @@ section#timeline article:nth-child(2n+2) div.inner h2:after {
 section#timeline  div.inner {
 border: .2rem solid white;
 }
+
+::-webkit-scrollbar{
+  background-color: transparent;
+  height: 1.25rem;
+  width: 1.25rem;
+}
+::-webkit-scrollbar-corner {
+background-color: #25303B;
+}
+

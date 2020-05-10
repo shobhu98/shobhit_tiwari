@@ -16,7 +16,7 @@ const About = () => {
         <span className="month">May</span>
         <span className="year">2020</span>
       </span>
-                    <h2>OPEN SOURCE CONTRIBUTION</h2>
+                    <h2>OPEN SOURCE </h2>
                     <p>Started Contributing in open source projects.Made by first contribution in Microsoft Azure.Also
                     working on projects like Mocha and Rocket.Chat</p>
                 </div>
@@ -28,7 +28,7 @@ const About = () => {
         <span className="month">Mar</span>
         <span className="year">2020</span>
       </span>
-                    <h2>DEVELOPERS CONNECTING</h2>
+                    <h2>DEV. CONNECT</h2>
                     <p>Developing an online platform using MERN stack to connect developers where they can demonstrate their skills,share ideas as well as help each other. The state management of the front end is performed using Redux Store. The project is 80% completed.</p>
                 </div>
             </article>
