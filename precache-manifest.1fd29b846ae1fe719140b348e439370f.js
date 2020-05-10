@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9a1f67596ed9fe65e78b75f9fdf93c12",
+    "revision": "508c927f68df2a6ff69cdfb16acf498f",
     "url": "/shobhit_tiwari/index.html"
   },
   {
-    "revision": "59dcfb30a28a655c6f69",
-    "url": "/shobhit_tiwari/static/css/main.7ba38caf.chunk.css"
+    "revision": "dc0dbea9523691b0eb68",
+    "url": "/shobhit_tiwari/static/css/main.29f2e233.chunk.css"
   },
   {
     "revision": "4192221e31669adebdba",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/shobhit_tiwari/static/js/2.bac7a57d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "59dcfb30a28a655c6f69",
+    "revision": "dc0dbea9523691b0eb68",
     "url": "/shobhit_tiwari/static/js/main.41b0e5da.chunk.js"
   },
   {
